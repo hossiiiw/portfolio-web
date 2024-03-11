@@ -1,0 +1,8 @@
+#58c277 | #4b795a #00ffbb green 
+#18f4f1 | #2e8fef blue 
+#f7df08 | #998e29 | #deae5c  yellow
+#fefefe | #f6f6f6 white
+#86434a | #fc0352 red
+#1f1f1f | #212121 | #1e2128 | #212227 black
+#ad7ebb purpule
+#dd9553 brown
