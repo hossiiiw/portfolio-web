@@ -58,13 +58,13 @@ let flag = "dark";
 themeBtn.addEventListener("click", changeThemeBtn);
 function changeThemeBtn() {
   if (flag === "dark") {
-    themeBtn.src = "../image/icons/month.png";
+    themeBtn.src = "image/icons/month.png";
     document.documentElement.style.setProperty("--mybgcolor", "#fefefe");
     document.documentElement.style.setProperty("--fontColor", "#212121");
     flag = "light";
     setThemeLocalStorage(flag);
   } else {
-    themeBtn.src = "../image/icons/sun.png";
+    themeBtn.src = "image/icons/sun.png";
     document.documentElement.style.setProperty("--mybgcolor", "#212121");
     document.documentElement.style.setProperty("--fontColor", "#fefefe");
     flag = "dark";
