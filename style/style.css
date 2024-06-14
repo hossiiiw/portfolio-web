@@ -573,7 +573,7 @@ ul {
 
 .skill .title-wrapper h3 {
   font-size: 20px;
-  color: #fff;
+  color:var(--fontColor);
 }
 
 .skill .title-wrapper data {
